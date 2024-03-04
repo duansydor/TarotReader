@@ -1,0 +1,112 @@
+[
+    {
+        "nome": "O Louco",
+        "descricao": "O Louco representa o começo de uma jornada, a liberdade de seguir um novo caminho sem preocupações com o passado. Ele simboliza a inocência, a espontaneidade e a coragem de se aventurar em territórios desconhecidos. Este arcano indica um momento de grande potencial e possibilidades, mas também de incerteza e imprevisibilidade.",
+        "imagem": "img/olouco.jpg"
+    },
+    {
+        "nome": "O Mago",
+        "descricao": "O Mago representa o poder criativo e a capacidade de manifestar seus desejos no mundo material. Ele simboliza a vontade e a habilidade de usar os recursos disponíveis para alcançar seus objetivos. Este arcano indica um momento de grande energia e potencial criativo, onde você tem o poder de transformar sua vida através da ação e da manifestação.",
+        "imagem": "img/omago.jpg"
+    },
+    {
+        "nome": "A Sacerdotisa",
+        "descricao": "A Sacerdotisa representa a intuição, o mistério e o poder do subconsciente. Ela simboliza a conexão com o mundo espiritual e a capacidade de acessar conhecimentos profundos e ocultos. Este arcano indica um momento de introspecção e reflexão, onde é importante ouvir sua voz interior e confiar em sua intuição para guiar seus passos.",
+        "imagem": "img/asacerdotisa.jpg"
+    },
+    {
+        "nome": "A Imperatriz",
+        "descricao": "A Imperatriz representa a feminilidade, a fertilidade e a abundância. Ela simboliza a capacidade de nutrir e criar, tanto no sentido literal quanto no sentido figurado. Este arcano indica um momento de crescimento e expansão, onde você está cercado por amor, beleza e prosperidade. É um momento propício para expressar sua criatividade e cuidar das relações pessoais.",
+        "imagem": "img/aimperatriz.jpg"
+    },
+    {
+        "nome": "O Imperador",
+        "descricao": "O Imperador representa a autoridade, a estabilidade e o controle. Ele simboliza a capacidade de liderar e organizar, de estabelecer regras e limites claros. Este arcano indica um momento de domínio e realização, onde você está no controle de sua vida e capaz de enfrentar desafios com determinação e confiança.",
+        "imagem": "img/oimperador.jpg"
+    },
+    {
+        "nome": "O Hierofante",
+        "descricao": "O Hierofante representa a tradição, o ensinamento e a orientação espiritual. Ele simboliza a busca por conhecimento e a necessidade de seguir princípios éticos e morais. Este arcano indica um momento de aprendizado e crescimento espiritual, onde você está buscando respostas e orientação em sua jornada pessoal.",
+        "imagem": "img/ohierofante.jpg"
+    },
+    {
+        "nome": "Os Enamorados",
+        "descricao": "Os Enamorados representam escolhas, relacionamentos e união. Eles simbolizam a necessidade de fazer escolhas importantes e de se conectar com os outros de maneira significativa. Este arcano indica um momento de decisões difíceis e de avaliação de suas prioridades e valores. É importante seguir seu coração e escolher o caminho que ressoa com sua verdade interior.",
+        "imagem": "img/osenamorados.jpg"
+    },
+    {
+        "nome": "O Carro",
+        "descricao": "O Carro representa a condução, o movimento para frente e o sucesso. Ele simboliza a determinação e a força de vontade necessárias para superar obstáculos e alcançar seus objetivos. Este arcano indica um momento de avanço e progresso, onde você está no controle de sua própria jornada e pronto para enfrentar qualquer desafio que surgir em seu caminho.",
+        "imagem": "img/ocarro.jpg"
+    },
+    {
+        "nome": "A Justiça",
+        "descricao": "A Justiça representa o equilíbrio, a verdade e a responsabilidade. Ela simboliza a necessidade de agir com integridade e imparcialidade, de tomar decisões justas e éticas. Este arcano indica um momento de avaliação e julgamento, onde é importante assumir a responsabilidade por suas ações e lidar com as consequências de maneira justa e equilibrada.",
+        "imagem": "img/ajustica.jpg"
+    },
+    {
+        "nome": "O Eremita",
+        "descricao": "O Eremita representa a solidão, a introspecção e a busca pela sabedoria interior. Ele simboliza o desejo de se afastar do mundo exterior para se conectar consigo mesmo e com o divino. Este arcano indica um momento de reflexão e contemplação, onde é importante se recolher e buscar respostas dentro de si mesmo. É um período de autoconhecimento e crescimento espiritual.",
+        "imagem": "img/oeremita.jpg"
+    },
+    {
+        "nome": "A Roda da Fortuna",
+        "descricao": "A Roda da Fortuna representa mudanças, destino e sorte. Ela simboliza o ciclo constante de altos e baixos na vida e a necessidade de se adaptar às circunstâncias em constante mudança. Este arcano indica um momento de virada e transformação, onde eventos inesperados podem trazer novas oportunidades ou desafios. É importante manter uma atitude de aceitação e confiança no processo da vida.",
+        "imagem": "img/arodadafortuna.jpg"
+    },
+    {
+        "nome": "A Força",
+        "descricao": "A Força representa a coragem, o controle e a compaixão. Ela simboliza o poder interior necessário para enfrentar desafios com calma e determinação. Este arcano indica um momento de domínio sobre suas emoções e impulsos, onde você é capaz de superar obstáculos com força e gentileza. É um período de autocontrole e crescimento pessoal.",
+        "imagem": "img/aforca.jpg"
+    },
+    {
+        "nome": "O Enforcado",
+        "descricao": "O Enforcado representa o sacrifício, a espera e a renúncia. Ele simboliza a necessidade de abrir mão de algo importante para alcançar uma perspectiva mais elevada. Este arcano indica um momento de pausa e reflexão, onde você pode se encontrar em uma situação difícil e precisa aceitar temporariamente a perda ou a restrição para alcançar um objetivo maior.",
+        "imagem": "img/oenforcado.jpg"
+    },
+    {
+        "nome": "A Morte",
+        "descricao": "A Morte representa transformação, o fim de uma fase e o renascimento. Ela simboliza a necessidade de deixar para trás o passado e se abrir para novas possibilidades. Este arcano indica um momento de profunda mudança e renovação, onde velhas estruturas e padrões estão sendo desfeitos para dar lugar a algo novo e transformador. É um período de crescimento e renascimento pessoal.",
+        "imagem": "img/amorte.jpg"
+    },
+    {
+        "nome": "A Temperança",
+        "descricao": "A Temperança representa o equilíbrio, a harmonia e a moderação. Ela simboliza a necessidade de encontrar o meio-termo e integrar polaridades opostas. Este arcano indica um momento de autocontrole e ajuste, onde é importante encontrar um equilíbrio saudável em todas as áreas da vida. É um período de harmonia e paz interior.",
+        "imagem": "img/atemperanca.jpg"
+    },
+    {
+        "nome": "O Diabo",
+        "descricao": "O Diabo representa o materialismo, a tentação e a prisão. Ele simboliza a ilusão do poder e da posse, que nos prende em padrões negativos e autodestrutivos. Este arcano indica um momento de confronto com nossos medos e desejos mais profundos, onde é importante reconhecer e superar as armadilhas da mente e do ego. É um período de libertação e transformação pessoal.",
+        "imagem": "img/odiabo.jpg"
+    },
+    {
+        "nome": "A Torre",
+        "descricao": "A Torre representa desastre, revelação e mudança súbita. Ela simboliza a queda de estruturas antigas e a necessidade de reconstruir a partir dos escombros. Este arcano indica um momento de crise e ruptura, onde eventos inesperados podem virar sua vida de cabeça para baixo. É um período de libertação de padrões antigos e de transformação radical.",
+        "imagem": "img/atorre.jpg"
+    },
+    {
+        "nome": "A Estrela",
+        "descricao": "A Estrela representa esperança, inspiração e orientação. Ela simboliza a luz no fim do túnel e a promessa de um novo começo. Este arcano indica um momento de renovação espiritual e de fé no futuro, onde você está sendo guiado por uma força maior em direção aos seus sonhos e aspirações. É um período de otimismo e confiança no universo.",
+        "imagem": "img/aestrela.jpg"
+    },
+    {
+        "nome": "A Lua",
+        "descricao": "A Lua representa a ilusão, os medos e a intuição. Ela simboliza o mundo dos sonhos e do subconsciente, onde a realidade pode ser distorcida e enganosa. Este arcano indica um momento de confusão e incerteza, onde você pode se sentir perdido em meio a suas próprias emoções e imaginações. É importante confiar em sua intuição e navegar com cuidado através das sombras.",
+        "imagem": "img/alua.jpg"
+    },
+    {
+        "nome": "O Sol",
+        "descricao": "O Sol representa a felicidade, o sucesso e a vitalidade. Ele simboliza a luz da consciência e a energia positiva que nos sustenta e nos nutre. Este arcano indica um momento de clareza e realização, onde você está experimentando alegria e gratidão pelo presente. É um período de renovação da vitalidade e de conexão com sua verdadeira essência.",
+        "imagem": "img/osol.jpg"
+    },
+    {
+        "nome": "O Julgamento",
+        "descricao": "O Julgamento representa reavaliação, renascimento e decisão. Ele simboliza o despertar espiritual e a necessidade de confrontar o passado para seguir em frente. Este arcano indica um momento de avaliação e autoconhecimento, onde você está sendo chamado a assumir responsabilidade por suas escolhas e ações. É um período de perdão e aceitação, onde você pode se libertar do peso do passado e começar de novo.",
+        "imagem": "img/ojulgamento.jpg"
+    },
+    {
+        "nome": "O Mundo",
+        "descricao": "O Mundo representa realização, conclusão e integração. Ele simboliza o fim de uma jornada e o início de uma nova fase de vida. Este arcano indica um momento de celebração e reconhecimento pelo trabalho árduo e pela dedicação. É um período de plenitude e satisfação, onde você está alcançando seus objetivos e se sentindo completo em todos os níveis. É o culminar de uma jornada de crescimento e autoconhecimento.",
+        "imagem": "img/omundo.jpg"
+    }
+]

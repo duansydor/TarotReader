@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    background-image: url('img/background.png');
+
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-top: auto;
+    backdrop-filter: blur(5px);
+    margin-right: auto;
+    padding: 20PX;
+    height: 99vh;
+    width: 50vh;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    /* Escolha uma fonte apropriada */
+    font-size: 24px;
+    /* Tamanho da fonte */
+    color: #fff;
+    /* Cor do texto (branco para contraste com o fundo roxo) */
+    background-color: rgb(182, 48, 182);
+    /* Cor de fundo roxo */
+    padding: 10px 20px;
+    /* Espaçamento interno */
+    border-radius: 5px;
+    /* Borda arredondada */
+    text-align: center;
+    /* Centralizar texto */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    /* Sombra de texto */
+}
+
+p {
+    font-family: Arial, sans-serif;
+    /* Escolha uma fonte apropriada */
+    font-size: 16px;
+    /* Tamanho da fonte */
+    line-height: 1.6;
+    /* Altura da linha para melhor legibilidade */
+    color: #333;
+    /* Cor do texto */
+    margin-bottom: 10px;
+    /* Espaçamento inferior entre parágrafos */
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+img {
+    width: 100px;
+    border-radius: 8px;
+}
+
+#card-container {
+    margin-top: 0px;
+
+}
+
+.card {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+img {}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 150px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
